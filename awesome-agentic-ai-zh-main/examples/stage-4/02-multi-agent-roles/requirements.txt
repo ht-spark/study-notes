@@ -1,0 +1,2 @@
+crewai[anthropic]>=1.15,<2.0
+litellm>=1.98,<2.0
